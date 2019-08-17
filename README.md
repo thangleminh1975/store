@@ -1,2 +1,2 @@
-# story
-My story
+# store
+My store
